@@ -1,1 +1,2 @@
 primer archivo de prueba 
+texto 2
